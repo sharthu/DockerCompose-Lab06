@@ -104,12 +104,14 @@ Check, Edit and Change
 
 Create your custom Pages
 
+```
 frontend/src/
     ├── components/
     │   ├── CustomerForm.js
     │   ├── CustomerForm.css 
     │   ├── CustomerList.js
     │   └── CustomerList.css
+```
 
 ## Commands
 

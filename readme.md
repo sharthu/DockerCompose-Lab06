@@ -12,6 +12,7 @@ This is Testing for Docker Compose
 
 ## Project file Structure 
 
+```
 customer_registration_app
 ├── backend
 │   ├── controllers
@@ -56,14 +57,18 @@ customer_registration_app
 ├── prometheus
 │   └── prometheus.yml
 └── readme.md
-
+```
 
 Testing
 
 Frontend : http://localhost:3000/
+
 API : http://localhost:5000/api/customers
+
 Metrics : http://localhost:5000/metrics
+
 Prometheus : http://localhost:9090/targets
+
 Grafana : http://localhost:3001/ (admin, admin)
 
 
